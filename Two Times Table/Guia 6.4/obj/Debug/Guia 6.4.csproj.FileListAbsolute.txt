@@ -1,0 +1,18 @@
+C:\Programacion\SEMI\Guia 6.4\Guia 6.4\bin\Debug\Guia 6.4.exe.config
+C:\Programacion\SEMI\Guia 6.4\Guia 6.4\bin\Debug\Guia 6.4.exe
+C:\Programacion\SEMI\Guia 6.4\Guia 6.4\bin\Debug\Guia 6.4.pdb
+C:\Programacion\SEMI\Guia 6.4\Guia 6.4\obj\Debug\Guia_6._4.Form1.resources
+C:\Programacion\SEMI\Guia 6.4\Guia 6.4\obj\Debug\Guia_6._4.Properties.Resources.resources
+C:\Programacion\SEMI\Guia 6.4\Guia 6.4\obj\Debug\Guia 6.4.csproj.GenerateResource.Cache
+C:\Programacion\SEMI\Guia 6.4\Guia 6.4\obj\Debug\Guia 6.4.exe
+C:\Programacion\SEMI\Guia 6.4\Guia 6.4\obj\Debug\Guia 6.4.pdb
+C:\Programacion\SEMI\Guia 6.4\Guia 6.4\obj\Debug\Guia 6.4.csprojResolveAssemblyReference.cache
+C:\Programacion\SEMI\GUIA 6\Guia 6.4\Guia 6.4\bin\Debug\Guia 6.4.exe.config
+C:\Programacion\SEMI\GUIA 6\Guia 6.4\Guia 6.4\obj\Debug\Guia 6.4.exe
+C:\Programacion\SEMI\GUIA 6\Guia 6.4\Guia 6.4\obj\Debug\Guia 6.4.pdb
+C:\Programacion\SEMI\GUIA 6\Guia 6.4\Guia 6.4\bin\Debug\Guia 6.4.exe
+C:\Programacion\SEMI\GUIA 6\Guia 6.4\Guia 6.4\bin\Debug\Guia 6.4.pdb
+C:\Programacion\SEMI\GUIA 6\Guia 6.4\Guia 6.4\obj\Debug\Guia 6.4.csprojResolveAssemblyReference.cache
+C:\Programacion\SEMI\GUIA 6\Guia 6.4\Guia 6.4\obj\Debug\Guia_6._4.Form1.resources
+C:\Programacion\SEMI\GUIA 6\Guia 6.4\Guia 6.4\obj\Debug\Guia_6._4.Properties.Resources.resources
+C:\Programacion\SEMI\GUIA 6\Guia 6.4\Guia 6.4\obj\Debug\Guia 6.4.csproj.GenerateResource.Cache
